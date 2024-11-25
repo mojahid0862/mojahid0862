@@ -1,11 +1,12 @@
 
-# Mojahid Ul Haque
+# MOJAHID-UL HAQUE (Δ𝓓𝔦𝐋)
 
-![DevOps Engineer](https://img.shields.io/badge/Role-DevOps%20Engineer-brightgreen)  
+**DevOps Engineer**  
 📍 **Delhi, India**  
-📧 [Email Me](mailto:mojahidulhaque786@gmail.com)  
+📧 [mojahidulhaque786@gmail.com](mailto:mojahidulhaque786@gmail.com)  
 🔗 [GitHub](https://github.com/mojahid0862) | [LinkedIn](https://www.linkedin.com/in/mojahid-ul-haque) | [Portfolio](https://mojahidulhaque.in)  
 
+---
 ## 🌟 **About Me**
 
 A self-motivated and detail-oriented **DevOps Engineer** with expertise in automation, cloud infrastructure, and CI/CD pipelines. Passionate about leveraging innovative technologies to drive organizational growth and streamline development processes. Skilled in containerization, orchestration, and building efficient deployment systems across diverse environments.
