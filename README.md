@@ -1,12 +1,10 @@
 
 # Mojahid Ul Haque
 
-**DevOps Engineer**  
+![DevOps Engineer](https://img.shields.io/badge/Role-DevOps%20Engineer-brightgreen)  
 📍 **Delhi, India**  
-📧 [mojahidulhaque786@gmail.com](mailto:mojahidulhaque786@gmail.com)  
+📧 [Email Me](mailto:mojahidulhaque786@gmail.com)  
 🔗 [GitHub](https://github.com/mojahid0862) | [LinkedIn](https://www.linkedin.com/in/mojahid-ul-haque) | [Portfolio](https://mojahidulhaque.in)  
-
----
 
 ## 🌟 **About Me**
 
