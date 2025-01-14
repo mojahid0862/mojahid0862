@@ -3,7 +3,7 @@
 
 **DevOps Engineer**  
 📧 [mojahidulhaque786@gmail.com](mailto:mojahidulhaque786@gmail.com)  
-🔗 [GitHub](https://github.com/mojahid0862) | [LinkedIn](https://www.linkedin.com/in/mojahid-ul-haque) | [Portfolio](https://mojahidulhaque.in)  
+🔗 [GitHub](https://github.com/mojahid0862) | [LinkedIn](https://www.linkedin.com/in/mojahid-ul-haque) | [Portfolio](https://mojahidulhaque.com)  
 
 ---
 ## 🌟 **About Me**
