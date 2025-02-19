@@ -31,7 +31,7 @@ A self-motivated and detail-oriented **DevOps Engineer** with expertise in autom
 ---
 
 ## 🏆 **Certifications**
-
+- [AWS Certified Developer – Associate ](https://www.credly.com/badges/60b1f8b3-f69f-4b61-8ff1-744e6302c8a0/public_url)  
 - AWS Certified Solutions Architect – Associate  
 - DevOps Foundations  
 - AWS DevOps: Continuous Docker Deployment to AWS Fargate from GitLab  
