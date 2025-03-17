@@ -17,13 +17,14 @@ A self-motivated and detail-oriented **DevOps Engineer** with expertise in autom
 - **B.Tech in Computer Science and Engineering**  
   *Lovely Professional University, Punjab (2019 – 2023)*
 
----
-
 ## 🛠️ **Technical Skills**
 
-Preview: https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,ansible,terraform,git,github,bash,html,css,java,php,postgres,mysql,flask,fastapi,graphql,react,vue,svelte&perline=8
-
-
+- **Cloud Platforms:** AWS, Azure, Google Cloud Platform  
+- **DevOps Tools:** Jenkins, GitLab, GitHub, Docker, Docker Compose, Kubernetes, Helm, Ansible, Azure DevOps, Argo CD, SonarQube, Nginx  
+- **Programming & Scripting:** Python, Shell scripting, Bash scripting, YAML, Node.js  
+- **Security Tools:** Burp Suite, Nikto, Nmap, OWASP  
+- **Databases:** MongoDB, PostgreSQL, Redis  
+- **Operating Systems:** Ubuntu, Linux, Windows  
 
 ---
 
